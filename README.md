@@ -55,4 +55,4 @@
 - pip install -r requirements.txt
 - uvicorn main:app --reload
 
-  
+  Bạn có thể tham khảo repo cách tạo databse và build RAG cho chatbot trên GitHub tại đường link sau: [RAG Embedding LLM Model](https://github.com/quyk67uet/RAG_Embedding_LLM_Model)
